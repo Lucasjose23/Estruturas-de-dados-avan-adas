@@ -1,0 +1,2 @@
+﻿  principal.cpp
+d:\games\vs\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
